@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 pipreqs = "*"
+jupyter = "*"
 
 [dev-packages]
 ipykernel = "*"
